@@ -12,4 +12,4 @@ Input and Output Redirection->
 Command Execution->
 Exit Status->
 Prompt->
-Scripting->
+Scripting.
