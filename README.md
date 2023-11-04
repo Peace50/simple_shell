@@ -4,12 +4,12 @@ A shell is a command-line interface (CLI) program that provides a user interface
 
 Here's how a shell typically works:
 
-Command Entry
-Parsing
-Command Execution
-Process Creation
-Input and Output Redirection
-Command Execution
-Exit Status
-Prompt
-Scripting
+Command Entry->
+Parsing->
+Command Execution->
+Process Creation->
+Input and Output Redirection->
+Command Execution->
+Exit Status->
+Prompt->
+Scripting->
