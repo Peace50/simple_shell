@@ -3,8 +3,8 @@
 /**
  * main - Entry point for the shell, the core of the project.
  *
- *Function serves as the entry point for the shell project and is responsible
- * for initializing the shell, reading and processing user commands, and manage
+ *Function serves as the entry point for the shell project and is in charge
+ * of initializing the shell, reading and processing user commands, and manage
  * the execution of those commands.
  *
  * Return: An integer indicating the exit status of the shell.
